@@ -6,10 +6,7 @@ from openpyxl.utils import get_column_letter, column_index_from_string
 import os
 import numpy as np
 from itertools import islice
-#from colorama import init
-#from colorama import Fore, Back, Style
 import time
-#import win32com.client as win32
 from tkinter import *
 import tkinter as tk 
 from PIL import ImageTk, Image
